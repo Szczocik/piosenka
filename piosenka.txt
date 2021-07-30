@@ -10,6 +10,6 @@ zwrotka_3.txt
 
 zwrotka_4.txt
 
-refren_2.txt
+refren_1.txt
 
-refren_3.txt
+refren_1.txt
