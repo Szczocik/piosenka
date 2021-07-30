@@ -6,10 +6,7 @@ zwrotka_2.txt
 
 refren_1.txt
 
-I've taken my bows,
-And my curtain calls.
-You brought me fame and fortune, and everything that goes with it.
-I thank you all.
+zwrotka_3.txt
 
 But it's been no bed of roses,
 No pleasure cruise.
